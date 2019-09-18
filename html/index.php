@@ -17,6 +17,13 @@
         <li><a href="element.php">Block Element</a> </li>
         <li> <a href="list.php">List Item </a> </li>
         <li> <a href="attribute.php">Attribute</a> </li>
+        <li> <a href="hyperlink.php">Hyperlink</a> </li>
+        <li> <a href="ifframe.php">Iframe</a> </li>
+        <li><a href="image.php">Image</a> </li>
+        <li> <a href="table.php">Table</a> </li>
+        <li><a href="multimedia.php">Multimedia</a> </li>
+        <li><a href="form.php">Form Element</a> </li>
+        <li><a href="marquee.php">Marquee</a> </li>
       </ul>
     </div>
 
