@@ -1,0 +1,60 @@
+.section-head{
+  background-color: #f8f8f8;
+  border-bottom: 1px solid grey;
+}
+  .heading{
+    font-size: 32px;
+    text-align: center;
+    padding: 20px;
+    color: #fdc14d;
+  }
+
+  .course-heading{
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+  }
+  .course-heading h1{
+    text-align: center;
+    font-size: 32px;
+    color: #000;
+  }
+  .index{
+    text-align: left;
+    text-decoration: none;
+    list-style-type: circle;
+    padding-top: 30px;
+  }
+  .index li{
+    font-size: 26px;
+  }
+
+  footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding: 20px;
+  width: 100%;
+  background-color: #000;
+  color: white;
+  text-align: center;
+}
+footer a{
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.btn-direct a{
+  color: #000;
+}
+.btn-direct{
+  margin-top: 40px;
+}
+.btn-direct a:hover{
+  color: #fff;
+text-decoration: none;
+}
